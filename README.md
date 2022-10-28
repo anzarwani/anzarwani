@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [scram](https://github.com/anzarwani/scram)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **R**
 
 - 👯 I’m looking to collaborate on [pyscript](https://github.com/pyscript/pyscript)
 
