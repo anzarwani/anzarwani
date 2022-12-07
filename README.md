@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anzar</h1>
-<h3 align="center">A python developer with interest in backend development and machine learning</h3>
+<h3 align="center">A python developer with interest in Data Analytics and Data Visualization</h3>
 
 - 🔭 I’m currently working on [scram](https://github.com/anzarwani/scram)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [pyscript](https://github.com/pyscript/pyscript)
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
