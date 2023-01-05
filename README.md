@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anzar</h1>
 <h3 align="center">A python developer with interest in Data Analytics and Data Visualization</h3>
 
-- 🔭 I’m currently working on [scram](https://github.com/anzarwani/scram)
+- 🔭 I’m currently working on **Cyclistic Data Analysis**
 
 - 🌱 I’m currently learning **R**
 
