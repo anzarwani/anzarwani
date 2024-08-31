@@ -1,11 +1,11 @@
 ### Welcome 👋
 
-- I'm a Software Engineer specializing in Mainframe, COBOL and Machine Learning.
+- I'm a Software Engineer specializing in Mainframe, COBOL, Python and Machine Learning.
 - I love playing around with open source ML models 🤗
 - I love integrating low-code solutions with Legacy systems.
 
 💼 Experience:
-- COBOL Developer with an experience of over 3 years.
+- Backend Software Engineer with an experience of over 3 years.
 - Kaggle Expert
 
 🔎 Find me on:
