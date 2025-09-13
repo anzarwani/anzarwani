@@ -1,14 +1,10 @@
-### Welcome 👋
+### Welcome
 
-- I'm a Data Engineer specializing in Python, ETL, Mainframe Modernization and SQL.
-- I love playing around with open source ML models 🤗
-- I love integrating low-code solutions with Legacy systems.
+I’m a Data Engineer with 4+ years of experience in building data-driven solutions that modernize legacy systems and unlock business value.  
 
-💼 Experience:
-- Data Engineer with an experience of over 4 years.
-- Kaggle Expert
+- Skilled in **Python, SQL, ETL pipelines**, and **Mainframe Modernization**.  
+- Experienced in **data analysis and reporting**, turning raw data into actionable insights.  
+- Passionate about bridging the gap between **legacy systems** and **modern data platforms**, including low-code integrations.  
 
-🔎 Find me on:
-
-- 💻 [Kaggle](https://www.kaggle.com/anzarwani2)
-- 🤗 [Huggingface](https://huggingface.co/weightedhuman)
+**Experience**  
+- 4+ years delivering data solutions across diverse domains, with a focus on **efficiency, scalability, and modernization**.
